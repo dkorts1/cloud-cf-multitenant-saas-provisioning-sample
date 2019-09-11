@@ -5,8 +5,8 @@
 This repository contains a sample reference application that explains the steps involved in using SaaS Provisioning service to develop and deploy a SaaS (software-as-a-service) multitenant business application on SAP Cloud Platform, Cloud Foundry environment.
 
 Through this sample application you will understand:
-* How does a provider serve a SaaS application using the SaaS Provisioning service.
-* How can a consumer subscribe to a multitenant SaaS application.
+* How a provider shares a SaaS application with consumers using the SaaS Provisioning service.
+* How a consumer subscribes to a multitenant SaaS application.
 
 ## Requirements
 
